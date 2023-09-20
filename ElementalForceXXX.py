@@ -1,18 +1,3 @@
-# a game where the goal is to delpete the opponent's hp bar from 100 to 0 or gain a total of 10 turns
-
-
-#RULES
-#Water deals purification (allows you to regain hp for 1 chance)
-#Fire causes destruction (does fatal damage to hp bar)
-#Quantum gives you buff (a.k.a gives you an extra random element)
-#Imaginary applies debuff to your opponent(a.k.a deletes an element from your opponent's set)
-#Wind gives Stamina(Getting extra turns)
-#Ice freezes (inhibiting the opponent a.k.a  reducing turns)
-
-
-
-
-
 import random as r
 from cmd import Cmd 
 import sys
